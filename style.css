@@ -1046,6 +1046,7 @@
             .project-slide h3 {
                 font-size: 1.5rem;
                 margin-bottom: 15px;
+                text-align: center;
             }
 
             .tech-stack {
@@ -1055,16 +1056,16 @@
 
             .tech-tag {
                 padding: 6px 12px;
-                font-size: 11px;
+                font-size: 14px;
             }
 
             .project-slide p {
-                font-size: 14px;
+                font-size: 19px;
                 margin-bottom: 20px;
             }
 
             .project-video {
-                max-height: 200px;
+                max-height: 300px;
                 max-width: 100%;
             }
 
@@ -1095,7 +1096,7 @@
             }
 
             .project-video {
-                max-height: 180px;
+                max-height: 200px;
                 border-radius: 8px;
             }
         }
